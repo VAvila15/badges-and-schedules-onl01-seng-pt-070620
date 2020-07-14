@@ -23,7 +23,7 @@ def printer (attendees)
     badges
   end
   
-  assign_rooms(attendees). each do |rooms|
-    rooms
+  assign_rooms(attendees). each do |room_assignments|
+    room_assignments
   end
 end
