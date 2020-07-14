@@ -12,4 +12,4 @@ end
 
 def assign_rooms (attendees)
   room_assignments = []
-  assign_rooms.each do ""
+  assign_rooms.each do "Hello, #{name}! You'll be assigned to room !"
